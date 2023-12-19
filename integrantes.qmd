@@ -1,0 +1,7 @@
+---
+title: "Integrantes"
+---
+
+En Laboratorio de Tecnologías Abiertas y Más [LATA+] desarrollamos y educamos sobre el desarrollo 
+y prototipado de dispositivos abiertos para la investigación y educación de las energías renovables
+y temas afines.

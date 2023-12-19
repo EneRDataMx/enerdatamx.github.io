@@ -1,0 +1,5 @@
+---
+title: "DataLab: EnerData"
+---
+
+DataLab: EnerData es un laboratorio de visualización y manejo de datos para contar historias sobre energías renovables.
