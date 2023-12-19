@@ -4,7 +4,7 @@
     "href": "posts.html",
     "title": "Historias",
     "section": "",
-    "text": "Prueba de post\n\n\n\nprueba\n\n\npython\n\n\n\nPublicado originalmente en: La Unión de Morelos Acceso aquí\n\n\n\nGuillermo Barrios\n\n\nDec 14, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Prueba de post\n\n\n\nprueba\n\n\npython\n\n\n\nPrueba de concepto\n\n\n\nGuillermo Barrios\n\n\nDec 14, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "integrantes.html",
@@ -21,8 +21,8 @@
     "text": "En Laboratorio de Tecnologías Abiertas y Más [LATA+] desarrollamos y educamos sobre el desarrollo y prototipado de dispositivos abiertos para la investigación y educación de las energías renovables y temas afines."
   },
   {
-    "objectID": "posts/2023-12-14_Prueba.html",
-    "href": "posts/2023-12-14_Prueba.html",
+    "objectID": "posts/2023-12-14_Prueba/2023-12-14_Prueba.html",
+    "href": "posts/2023-12-14_Prueba/2023-12-14_Prueba.html",
     "title": "Prueba de post",
     "section": "",
     "text": "Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret\n\n\n\nCómo citarBibTeX@online{barrios2023,\n  author = {Barrios, Guillermo},\n  title = {Prueba de post},\n  date = {2023-12-14},\n  url = {https://enerdatamx.github.io/posts/2023-12-14_Prueba},\n  langid = {es}\n}\nPor favor, cita este trabajo como:\nBarrios, Guillermo. 2023. “Prueba de post.” December 14,\n2023. https://enerdatamx.github.io/posts/2023-12-14_Prueba."
