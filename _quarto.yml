@@ -27,8 +27,8 @@ website:
 format:
   html:
     theme: 
-      dark: superhero
-      light: yeti
+      dark: spacelab
+      light: sketchy
     css: styles.css
     toc: true
 
