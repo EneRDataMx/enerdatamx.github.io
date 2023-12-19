@@ -1,5 +1,12 @@
 ---
-title: "DataLab: EnerData"
+title: "DataLab EnerData"
 ---
 
-DataLab: EnerData es un laboratorio de visualización y manejo de datos para contar historias sobre energías renovables.
+DataLab de EnerData se centra en la visualización y manejo de datos para contar historias sobre energías renovables usando Python, Jupyter Notebook.
+
+Nace como un proyecto de servicio social donde buscamos combinar la comunicación de la ciencia, visualización y análisis de datos y la ciencia libre. 
+
+
+Objetivo general
+Generar infografías dirigidas a la juventud de habla hispana que estén relacionadas con las energías renovables, sustentabilidad con perspectiva de género para difundirse en redes sociales utilizando análisis de datos con metodologías robustas, colaborativas y asíncronas.
+

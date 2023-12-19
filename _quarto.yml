@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  page-footer: "Copyright 2024, G. Barrios" 
-  back-to-top-navigation: true
   title: "DataLab"
+  page-footer: "Copyright 2024, G. Barrios" 
   navbar:
     tools:
       - icon: github
         url: https://github.com/AltamarMx
     background: primary
+    logo: enerdatalogo.png
     search: True
     left:
       - text: "EnerData"
@@ -22,12 +22,13 @@ website:
       - proyectos.qmd
       - dispositivos.qmd
       - integrantes.qmd
+      - posts.qmd
 
 format:
   html:
     theme: 
       dark: superhero
-      light: morph
+      light: yeti
     css: styles.css
     toc: true
 
