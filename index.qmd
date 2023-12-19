@@ -1,5 +1,10 @@
 ---
 title: "DataLab EnerData"
+listing:
+    - id: posts
+      contents: posts/*/*.qmd
+      type: grid
+      sort: "date desc"
 ---
 
 DataLab de EnerData se centra en la visualización y manejo de datos para contar historias sobre energías renovables usando Python, Jupyter Notebook.
@@ -10,3 +15,13 @@ Nace como un proyecto de servicio social donde buscamos combinar la comunicació
 Objetivo general
 Generar infografías dirigidas a la juventud de habla hispana que estén relacionadas con las energías renovables, sustentabilidad con perspectiva de género para difundirse en redes sociales utilizando análisis de datos con metodologías robustas, colaborativas y asíncronas.
 
+
+
+:::
+
+---
+
+## Historias recientes
+
+::: {#posts}
+:::

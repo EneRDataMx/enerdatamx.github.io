@@ -9,7 +9,7 @@ website:
     tools:
       - icon: github
         url: https://github.com/AltamarMx
-    background: primary
+    background: light
     logo: enerdatalogo.png
     search: True
     left:
@@ -26,9 +26,9 @@ website:
 
 format:
   html:
-    theme: 
-      dark: spacelab
-      light: sketchy
+    theme:
+      light: [cosmo, theme.scss]
+      dark: slate
     css: styles.css
     toc: true
 
