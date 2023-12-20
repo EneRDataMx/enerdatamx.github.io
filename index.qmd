@@ -19,19 +19,9 @@ listing:
 ---
 
 :::{#encabezado}
-
-El **DataLab de EnerData** es un espacio dedicado a contar historias en el mundo de las energías renovables, utilizando Python, Jupyter Notebook, Quarto,  para transformar datos crudos y mostrarlos.
-
-Para lograr esto, nos apoyamos en metodologías de análisis de datos robustas, colaborativas y asincrónas, con el fin de producir contenidos que no solo informen, sino que también inspiren y se difundan ampliamente en las redes sociales.
-
-DataLab EnerData nació uniendo la comunicación científica, la visualización de datos y el enfoque en la ciencia abierta. Nuestro objetivo es trascender las barreras tradicionales del análisis de datos, llevando este campo a un público más amplio y diverso.
-
-Buscamos que nuestras narrativas sean inclusivas y representativas.
-
-
+En **DataLab de EnerData** contamos historias sobre las energías renovables usando metodologías de análisis de datos robustas, colaborativas y asincronas, con el fin de producir contenidos que no solo informen, sino que también inspiren y se difundan ampliamente en las redes sociales. Buscamos que nuestras narrativas sean inclusivas, representativas y promuevan la concientización. Usamos Python, Jupyter Notebook, Quarto, VSCode.
 :::
 
 ## Historias recientes
-
 ::: {#historias}
 :::
