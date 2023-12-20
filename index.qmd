@@ -19,7 +19,7 @@ listing:
 ---
 
 :::{#encabezado}
-En **DataLab de EnerData** contamos historias sobre las energías renovables usando metodologías de análisis de datos robustas, colaborativas y asincronas, con el fin de producir contenidos que no solo informen, sino que también inspiren y se difundan ampliamente en las redes sociales. Buscamos que nuestras narrativas sean inclusivas, representativas y promuevan la concientización. Usamos Python, Jupyter Notebook, Quarto, VSCode.
+En **DataLab de EnerData** contamos historias sobre las energías renovables usando metodologías de análisis de datos robustas, colaborativas y asincronas, con el fin de producir contenidos que no solo informen, sino que también inspiren y se difundan ampliamente en las redes sociales. Buscamos que nuestras narrativas sean inclusivas, representativas y promuevan la concientización. Usamos Python, Jupyter Notebook, Quarto, VSCode, solo herramientas libres.
 :::
 
 ## Historias recientes
