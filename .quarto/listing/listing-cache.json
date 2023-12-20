@@ -1,5 +1,8 @@
 {
   "listingMap": {
+    "galeria.qmd": [
+      "galeria"
+    ],
     "integrantes.qmd": [
       "integrantes"
     ],
@@ -7,7 +10,7 @@
       "historias"
     ],
     "index.qmd": [
-      "posts/*/*.qmd"
+      "historias/*/*.qmd"
     ],
     "tutoriales.qmd": [
       "tutoriales"

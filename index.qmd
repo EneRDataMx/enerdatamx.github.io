@@ -1,8 +1,8 @@
 ---
 title: "DataLab EnerData"
 listing:
-    - id: posts
-      contents: posts/*/*.qmd
+    - id: historias
+      contents: historias/*/*.qmd
       type: grid
       sort: "date desc"
 ---
@@ -22,5 +22,5 @@ Buscamos que nuestras narrativas sean inclusivas y representativas.
 
 ## Historias recientes
 
-::: {#posts}
+::: {#historias}
 :::

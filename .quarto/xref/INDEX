@@ -79,5 +79,11 @@
   },
   "integrantes/GuillermoBarrios/integrante.qmd": {
     "integrante.html": "c828d469"
+  },
+  "galeria.qmd": {
+    "galeria.html": "775af58d"
+  },
+  "galeria/2023-12-14_Prueba/2023-12-14_Prueba.qmd": {
+    "2023-12-14_Prueba.html": "543a7fed"
   }
 }

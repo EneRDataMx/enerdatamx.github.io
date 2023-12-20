@@ -7,17 +7,16 @@ website:
   navbar:
     tools:
       - icon: github
-        url: https://github.com/EnerData
+        url: https://github.com/EnerDataMx
     background: light
     logo: enerdatalogo.png
     search: True
     left:
       - historias.qmd
       - tutoriales.qmd
-      - index.qmd
       - integrantes.qmd
-  page-footer: "Copyright 2024, G. Barrios" 
-
+      - galeria.qmd
+  page-footer:  "This work is licensed under CC BY-NC 4.0 "
 format:
   html:
     theme:
