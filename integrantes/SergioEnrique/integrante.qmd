@@ -1,0 +1,6 @@
+---
+title: "Sergio Enrique "
+image: foto.png
+lang: es 
+---
+

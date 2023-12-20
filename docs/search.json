@@ -1,7 +1,21 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
+    "objectID": "historias/2023-12-14_Prueba/2023-12-14_Prueba.html",
+    "href": "historias/2023-12-14_Prueba/2023-12-14_Prueba.html",
+    "title": "Prueba de post",
+    "section": "",
+    "text": "Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret\n\n\n\nCómo citarBibTeX@online{barrios2023,\n  author = {Barrios, Guillermo},\n  title = {Prueba de post},\n  date = {2023-12-14},\n  url = {https://enerdatamx.github.io/posts/2023-12-14_Prueba},\n  langid = {es}\n}\nPor favor, cita este trabajo como:\nBarrios, Guillermo. 2023. “Prueba de post.” December 14,\n2023. https://enerdatamx.github.io/posts/2023-12-14_Prueba."
+  },
+  {
+    "objectID": "tutoriales.html",
+    "href": "tutoriales.html",
+    "title": "Tutoriales",
+    "section": "",
+    "text": "Prueba de post\n\n\n\nprueba\n\n\npython\n\n\n\nPrueba de concepto\n\n\n\nGuillermo Barrios\n\n\nDec 14, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "historias.html",
+    "href": "historias.html",
     "title": "Historias",
     "section": "",
     "text": "Prueba de post\n\n\n\nprueba\n\n\npython\n\n\n\nPrueba de concepto\n\n\n\nGuillermo Barrios\n\n\nDec 14, 2023\n\n\n\n\n\n\n\n\nNo matching items"
@@ -11,7 +25,7 @@
     "href": "integrantes.html",
     "title": "Integrantes",
     "section": "",
-    "text": "En Laboratorio de Tecnologías Abiertas y Más [LATA+] desarrollamos y educamos sobre el desarrollo y prototipado de dispositivos abiertos para la investigación y educación de las energías renovables y temas afines."
+    "text": "Nicté Luna\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLuisa Fernanda\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFelix Salazar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSergio Enrique\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiego Arellano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBenjamín Santamaría\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGuillermo Barrios\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "dispositivos.html",
@@ -21,8 +35,8 @@
     "text": "En Laboratorio de Tecnologías Abiertas y Más [LATA+] desarrollamos y educamos sobre el desarrollo y prototipado de dispositivos abiertos para la investigación y educación de las energías renovables y temas afines."
   },
   {
-    "objectID": "posts/2023-12-14_Prueba/2023-12-14_Prueba.html",
-    "href": "posts/2023-12-14_Prueba/2023-12-14_Prueba.html",
+    "objectID": "tutoriales/2023-12-14_Prueba/2023-12-14_Prueba.html",
+    "href": "tutoriales/2023-12-14_Prueba/2023-12-14_Prueba.html",
     "title": "Prueba de post",
     "section": "",
     "text": "Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret\n\n\n\nCómo citarBibTeX@online{barrios2023,\n  author = {Barrios, Guillermo},\n  title = {Prueba de post},\n  date = {2023-12-14},\n  url = {https://enerdatamx.github.io/posts/2023-12-14_Prueba},\n  langid = {es}\n}\nPor favor, cita este trabajo como:\nBarrios, Guillermo. 2023. “Prueba de post.” December 14,\n2023. https://enerdatamx.github.io/posts/2023-12-14_Prueba."
@@ -46,14 +60,14 @@
     "href": "index.html",
     "title": "DataLab EnerData",
     "section": "",
-    "text": "DataLab de EnerData se centra en la visualización y manejo de datos para contar historias sobre energías renovables usando Python, Jupyter Notebook.\nNace como un proyecto de servicio social donde buscamos combinar la comunicación de la ciencia, visualización y análisis de datos y la ciencia libre.\nObjetivo general Generar infografías dirigidas a la juventud de habla hispana que estén relacionadas con las energías renovables, sustentabilidad con perspectiva de género para difundirse en redes sociales utilizando análisis de datos con metodologías robustas, colaborativas y asíncronas.\n:::"
+    "text": "Bienvenido al DataLab de EnerData, un espacio dedicado a contar historias en el mundo de las energías renovables, utilizando herramientas avanzadas como Python y Jupyter Notebook para transformar datos crudos.\nPara lograr esto, nos apoyamos en metodologías de análisis de datos robustas, colaborativas y asincrónicas, con el fin de producir contenidos que no solo informen, sino que también inspiren y se difundan ampliamente en las redes sociales.\nDataLab EnerData nació uniendo la comunicación científica, la visualización de datos y el enfoque en la ciencia abierta. Nuestro objetivo es trascender las barreras tradicionales del análisis de datos, llevando este campo a un público más amplio y diverso.\nBuscamos que nuestras narrativas sean inclusivas y representativas."
   },
   {
     "objectID": "index.html#historias-recientes",
     "href": "index.html#historias-recientes",
     "title": "DataLab EnerData",
     "section": "Historias recientes",
-    "text": "Historias recientes\n\n\n\n\n\n\n\n\n\n\nPrueba de post\n\n\nPrueba de concepto\n\n\n\nGuillermo Barrios\n\n\nDec 14, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Historias recientes\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "reglamento.html",

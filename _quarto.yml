@@ -3,32 +3,26 @@ project:
   output-dir: docs
 
 website:
-  title: "DataLab"
-  page-footer: "Copyright 2024, G. Barrios" 
+  title: "EnerData"
   navbar:
     tools:
       - icon: github
-        url: https://github.com/AltamarMx
+        url: https://github.com/EnerData
     background: light
     logo: enerdatalogo.png
     search: True
     left:
-      - text: "EnerData"
-        menu: 
-          - index.qmd
-          - reglamento.qmd
-      - investigacion.qmd
-      - docencia.qmd
-      - proyectos.qmd
-      - dispositivos.qmd
+      - historias.qmd
+      - tutoriales.qmd
+      - index.qmd
       - integrantes.qmd
-      - posts.qmd
+  page-footer: "Copyright 2024, G. Barrios" 
 
 format:
   html:
     theme:
       light: [cosmo, theme.scss]
-      dark: slate
+      dark: darkly
     css: styles.css
     toc: true
 

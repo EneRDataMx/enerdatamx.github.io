@@ -25,5 +25,59 @@
   },
   "posts.qmd": {
     "posts.html": "a0e63827"
+  },
+  "tutoriales.qmd": {
+    "tutoriales.html": "e4b08b3d"
+  },
+  "historias.qmd": {
+    "historias.html": "27b76b24"
+  },
+  "tutoriales/2023-12-14_Prueba/2023-12-14_Prueba.qmd": {
+    "2023-12-14_Prueba.html": "57ca4d1b"
+  },
+  "integrantes/GuillermoBarrios/2023-12-14_GuillermoBarrios.qmd": {
+    "2023-12-14_GuillermoBarrios.html": "3f4ea4cb"
+  },
+  "historias/2023-12-14_Prueba/2023-12-14_Prueba.qmd": {
+    "2023-12-14_Prueba.html": "d95f3579"
+  },
+  "integrantes/GuillermoBarrios/GuillermoBarrios.qmd": {
+    "GuillermoBarrios.html": "e7b6a810"
+  },
+  "integrantes/NicteLuna/GuillermoBarrios.qmd": {
+    "GuillermoBarrios.html": "c1418777"
+  },
+  "integrantes/LuisaFernanda/GuillermoBarrios.qmd": {
+    "GuillermoBarrios.html": "188104bc"
+  },
+  "integrantes/FelixSalazar/GuillermoBarrios.qmd": {
+    "GuillermoBarrios.html": "41456f76"
+  },
+  "integrantes/SergioEnrique/GuillermoBarrios.qmd": {
+    "GuillermoBarrios.html": "4336ea6d"
+  },
+  "integrantes/DiegoArellano/GuillermoBarrios.qmd": {
+    "GuillermoBarrios.html": "f8c17d10"
+  },
+  "integrantes/BenjaminSantamaria/integrante.qmd": {
+    "integrante.html": "c9af77de"
+  },
+  "integrantes/NicteLuna/integrante.qmd": {
+    "integrante.html": "2a1286cf"
+  },
+  "integrantes/LuisaFernanda/integrante.qmd": {
+    "integrante.html": "26026e4c"
+  },
+  "integrantes/FelixSalazar/integrante.qmd": {
+    "integrante.html": "dc4ebc05"
+  },
+  "integrantes/DiegoArellano/integrante.qmd": {
+    "integrante.html": "6411818b"
+  },
+  "integrantes/SergioEnrique/integrante.qmd": {
+    "integrante.html": "bebd379c"
+  },
+  "integrantes/GuillermoBarrios/integrante.qmd": {
+    "integrante.html": "c828d469"
   }
 }

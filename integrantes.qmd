@@ -1,7 +1,8 @@
 ---
 title: "Integrantes"
+listing: 
+  contents: integrantes # all Quarto docs in the `historias` directory will be included on your listing page
+  type: grid # or `default` or `table`; each type has its own set of yaml options to include
+  sort: "date desc" # can also sort on more than one field
+  categories: false # allows you to sort posts by assigned categories 
 ---
-
-En Laboratorio de Tecnologías Abiertas y Más [LATA+] desarrollamos y educamos sobre el desarrollo 
-y prototipado de dispositivos abiertos para la investigación y educación de las energías renovables
-y temas afines.

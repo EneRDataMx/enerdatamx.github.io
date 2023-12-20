@@ -1,0 +1,6 @@
+---
+title: "Benjamín Santamaría"
+image: foto.png
+lang: es 
+---
+![](foto.png)
