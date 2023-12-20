@@ -1,24 +1,35 @@
 ---
-title: "DataLab EnerData"
+title: ""
+image: enerdata.png
+about: 
+  id: encabezado
+  template: jolla
+  image-shape: rounded
+  image-width: 20em
+  links: 
+    - icon: twitter
+      text: X.com/EnerDataMx
+      href: https://x.com/enerdataMx
+
 listing:
     - id: historias
       contents: historias/*/*.qmd
       type: grid
       sort: "date desc"
 ---
-Bienvenido al **DataLab de EnerData**, un espacio dedicado a contar historias en el mundo de las energías renovables, utilizando herramientas avanzadas como Python y Jupyter Notebook para transformar datos crudos.
 
-Para lograr esto, nos apoyamos en metodologías de análisis de datos robustas, colaborativas y asincrónicas, con el fin de producir contenidos que no solo informen, sino que también inspiren y se difundan ampliamente en las redes sociales.
+:::{#encabezado}
+
+El **DataLab de EnerData** es un espacio dedicado a contar historias en el mundo de las energías renovables, utilizando Python, Jupyter Notebook, Quarto,  para transformar datos crudos y mostrarlos.
+
+Para lograr esto, nos apoyamos en metodologías de análisis de datos robustas, colaborativas y asincrónas, con el fin de producir contenidos que no solo informen, sino que también inspiren y se difundan ampliamente en las redes sociales.
 
 DataLab EnerData nació uniendo la comunicación científica, la visualización de datos y el enfoque en la ciencia abierta. Nuestro objetivo es trascender las barreras tradicionales del análisis de datos, llevando este campo a un público más amplio y diverso.
 
 Buscamos que nuestras narrativas sean inclusivas y representativas.
 
 
-
-
-
----
+:::
 
 ## Historias recientes
 
