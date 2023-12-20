@@ -3,3 +3,4 @@ title: "Guillermo Barrios"
 image: foto.png
 lang: es 
 ---
+![](foto.png)

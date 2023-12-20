@@ -3,3 +3,4 @@ title: "Felix Salazar"
 image: foto.png
 lang: es 
 ---
+![](foto.png)
