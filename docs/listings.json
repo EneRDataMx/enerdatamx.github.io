@@ -12,22 +12,14 @@
     ]
   },
   {
-    "listing": "/integrantes.html",
-    "items": [
-      "/integrantes/NicteLuna/integrante.html",
-      "/integrantes/LuisaFernanda/integrante.html",
-      "/integrantes/FelixSalazar/integrante.html",
-      "/integrantes/SergioEnrique/integrante.html",
-      "/integrantes/DiegoArellano/integrante.html",
-      "/integrantes/BenjaminSantamaria/integrante.html",
-      "/integrantes/GuillermoBarrios/integrante.html"
-    ]
-  },
-  {
     "listing": "/galeria.html",
     "items": [
       "/galeria/2023-12-14_Prueba/2023-12-14_Prueba.html"
     ]
+  },
+  {
+    "listing": "/integrantes.html",
+    "items": []
   },
   {
     "listing": "/index.html",

@@ -1,6 +1,0 @@
----
-title: "Luisa Fernanda"
-image: foto.png
-lang: es 
----
-![](foto.png)

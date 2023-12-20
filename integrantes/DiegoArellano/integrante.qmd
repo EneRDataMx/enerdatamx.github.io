@@ -1,6 +1,0 @@
----
-title: "Diego Arellano"
-image: foto.png
-lang: es 
----
-![](foto.png)

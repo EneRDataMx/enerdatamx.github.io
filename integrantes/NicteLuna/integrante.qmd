@@ -1,6 +1,0 @@
----
-title: "Nicté Luna"
-image: foto.png
-lang: es 
----
-![](foto.png)

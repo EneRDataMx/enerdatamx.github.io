@@ -1,5 +1,5 @@
 ---
-title: "Prueba de post"
+title: "Prueba de galeria"
 description: "Prueba de concepto "
 author:
   - name: Guillermo Barrios
@@ -9,7 +9,7 @@ author:
     affiliation-url: https://www.ier.unam.mx 
 date: 12-14-2023
 categories: [prueba, python ] # self-defined categories
-image: sensor.jpg
+image: galeria1.jpg
 citation: 
   url: https://enerdatamx.github.io/posts/2023-12-14_Prueba
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
@@ -17,12 +17,4 @@ lang: es
 ---
 
 
-Este es un post ad-loret
-Este es un post ad-loret
-Este es un post ad-loret
-Este es un post ad-loret
-Este es un post ad-loret
-Este es un post ad-loret
-Este es un post ad-loret
-Este es un post ad-loret
-Este es un post ad-loret
+Esta es una prueba de la galeria 1
