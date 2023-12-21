@@ -20,9 +20,7 @@ website:
   page-footer:  "This work is licensed under CC BY-NC 4.0 "
 format:
   html:
-    theme:
-      light: [cosmo, theme.scss]
-      dark: darkly
+    theme: [cosmo, theme.scss]
     css: styles.css
     toc: true
 lang: es    
