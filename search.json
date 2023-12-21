@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "historias/2023-12-20_Independencia/2023-12-20_Independencia.html#section-4",
+    "href": "historias/2023-12-20_Independencia/2023-12-20_Independencia.html#section-4",
+    "title": "Independencia energética en México",
+    "section": "",
+    "text": "Regresa a Historias"
+  },
+  {
+    "objectID": "tutoriales.html",
+    "href": "tutoriales.html",
+    "title": "Tutoriales",
+    "section": "",
+    "text": "Plantillas para matplotlib\n\n\n2 minutos\n\n\n\nGuillermo Barrios\n\n\n20 dic 2023\n\n\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "historias.html",
+    "href": "historias.html",
+    "title": "Historias",
+    "section": "",
+    "text": "Independencia energética en México\n\n\n\nGuillermo Barrios\n\n\n\n\n\n\n\nGuillermo Barrios\n\n\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "galeria.html",
+    "href": "galeria.html",
+    "title": "Galería de gráficos",
+    "section": "",
+    "text": "Prueba de galeria\n\n\n\nprueba\n\n\npython\n\n\n\nPrueba de concepto\n\n\n\nGuillermo Barrios\n\n\n14 dic 2023\n\n\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "tutoriales/2023-12-20_plantilla/2023-12-20_plantilla.html",
+    "href": "tutoriales/2023-12-20_plantilla/2023-12-20_plantilla.html",
+    "title": "Plantillas para matplotlib",
+    "section": "",
+    "text": "Estas trabajando en tu tesis/reporte/libro, y quieres que todas tus gráficas en matplotlib tengan los mismos colores, tamaños de texto, tipo de línea, tamaño de la imagen, inclusive quieres quitar el grid y te encontrarás especificando y repitiendo el formato en cada imagen.\nPuedes crear un archivo de estilo de matplotlib (.mplstyle) que defina el tamaño de la figura, color y tamaño de las labels, activar o desactivar el grid y mucho más.\n1figure.figsize      : 12.00, 6.00\n2axes.labelcolor     : grey\n3axes.labelsize      : 22\n4axes.grid           : True\n\n1\n\nEquivalente a figsize=(12,6)\n\n2\n\nTexto de las labels en gris.\n\n3\n\nTamaño del texto de las labels.\n\n4\n\nActiva o desactiva el grid de la figura.\n\n\nEste es uno de los secretos mejor guardados de por qué seaborn tiene una apariencia tan diferente a matplotlib por defecto. Ya que tienes un archivo de texto con el estilo que deseas, lo único que tienes que hacer es activarlo después de importar matplotlib\nimport matplotlib.pyplot as plt\nplt.style.use('enerdata_rectangle.mplstyle')\nEn este caso, el archivo enerdata_rectangle.mplstyle está en el mismo nivel que la libreta o script que ejecutas y solo tienes que cargarlo y todas las gráficas que hagas en este script o libreta tendrán el mismo formato especificado en el archivo.\nPor último, revisa los estilos o temas que trae matplotlib incluidos, y no dejes de revisar como se ve el estilo dark_backround y sobre todo, como se crea para que puedas desarrollar tu propia plantilla de estilo.\n\n\n\nCómo citarBibTeX@online{barrios2023,\n  author = {Barrios, Guillermo},\n  title = {Plantillas para matplotlib},\n  date = {2023-12-20},\n  url = {https://enerdatamx.github.io/posts/2023-12-20_plantilla},\n  langid = {es}\n}\nPor favor, cita este trabajo como:\nBarrios, Guillermo. 2023. “Plantillas para matplotlib.”\nDecember 20, 2023. https://enerdatamx.github.io/posts/2023-12-20_plantilla."
+  },
+  {
+    "objectID": "integrantes.html",
+    "href": "integrantes.html",
+    "title": "Integrantes",
+    "section": "",
+    "text": "Nombre\n\n\nNicté Luna\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNombre\n\n\nLuisa Ruíz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNombre\n\n\nFelix Salazar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNombre\n\n\nSergio Lara\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNombre\n\n\nDiego Arellano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNombre\n\n\nBenjamín Santamaría\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNombre\n\n\nGuillermo Barrios\n\n\n\n\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EnerData",
+    "section": "",
+    "text": "DataLab de EnerData es un innovador proyecto donde las energías renovables y la sostenibilidad cobran vida a través de poderosas narrativas. Realizamos un análisis de datos robustos, colaborativos y asincrónicos para crear contenidos que no solo informa, sino que también inspiren. Nuestra misión es construir historias inclusivas y representativas que fomenten la conciencia ambiental. Nos apoyamos en herramientas de software libre como Python, Jupyter Notebook, Quarto, Git y VSCode para dar vida a nuestras visiones, garantizando accesibilidad y transparencia en cada paso de nuestra jornada.\n \n  \n   \n  \n    \n     github.com/EnerDataMx"
+  },
+  {
+    "objectID": "index.html#historias-recientes",
+    "href": "index.html#historias-recientes",
+    "title": "EnerData",
+    "section": "Historias recientes",
+    "text": "Historias recientes\n\n\n\n\n\n\n\n\n\n\nIndependencia energética en México\n\n\n\n\n\n\nGuillermo Barrios\n\n\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "index.html#tutoriales-recientes",
+    "href": "index.html#tutoriales-recientes",
+    "title": "EnerData",
+    "section": "Tutoriales recientes",
+    "text": "Tutoriales recientes\n\n\n\n\n\n\n\n\n\n\nPlantillas para matplotlib\n\n\nDesarrolla una hoja de estilo para matplotlib y homogenizar tus gráficas\n\n\n\nGuillermo Barrios\n\n\n20 dic 2023\n\n\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "galeria/2023-12-14_Prueba/2023-12-14_Prueba.html",
+    "href": "galeria/2023-12-14_Prueba/2023-12-14_Prueba.html",
+    "title": "Prueba de galeria",
+    "section": "",
+    "text": "Esta es una prueba de la galeria 1\n\n\n\nCómo citarBibTeX@online{barrios2023,\n  author = {Barrios, Guillermo},\n  title = {Prueba de galeria},\n  date = {2023-12-14},\n  url = {https://enerdatamx.github.io/posts/2023-12-14_Prueba},\n  langid = {es}\n}\nPor favor, cita este trabajo como:\nBarrios, Guillermo. 2023. “Prueba de galeria.” December 14,\n2023. https://enerdatamx.github.io/posts/2023-12-14_Prueba."
+  }
+]
