@@ -8,7 +8,7 @@ format:
     slide-number: false
     chalkboard: 
       buttons: false
-    logo: enerdatalogo.png
+    logo: ../enerdatalogo.png
     footer: Regresa a [Historias](https://enerdatamx.github.io/historias)
 image: 002.png
 categories: [Guillermo Barrios] # self-defined categories
