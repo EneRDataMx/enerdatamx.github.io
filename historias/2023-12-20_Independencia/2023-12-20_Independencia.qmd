@@ -11,6 +11,8 @@ format:
     logo: enerdatalogo.png
     footer: Regresa a [Historias](../../historias.qmd)
 image: 002.png
+categories: [Guillermo Barrios] # self-defined categories
+
 ---
 
 ## 
