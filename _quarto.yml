@@ -15,7 +15,7 @@ website:
     left:
       - historias.qmd
       - tutoriales.qmd
-      - galeria.qmd
+ #     - galeria.qmd
       - integrantes.qmd
   page-footer:  "This work is licensed under CC BY-NC 4.0 "
 format:
