@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "historias/2023-12-14_Prueba/2023-12-14_Prueba.html",
-    "href": "historias/2023-12-14_Prueba/2023-12-14_Prueba.html",
-    "title": "Prueba de post",
-    "section": "",
-    "text": "Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret Este es un post ad-loret\n\n\n\nCómo citarBibTeX@online{barrios2023,\n  author = {Barrios, Guillermo},\n  title = {Prueba de post},\n  date = {2023-12-14},\n  url = {https://enerdatamx.github.io/posts/2023-12-14_Prueba},\n  langid = {es}\n}\nPor favor, cita este trabajo como:\nBarrios, Guillermo. 2023. “Prueba de post.” December 14,\n2023. https://enerdatamx.github.io/posts/2023-12-14_Prueba."
+    "objectID": "historias/2023-12-20_Independencia/2023-12-20_Independencia.html#section-1",
+    "href": "historias/2023-12-20_Independencia/2023-12-20_Independencia.html#section-1",
+    "title": "Independencia energética en México",
+    "section": "2",
+    "text": "2"
+  },
+  {
+    "objectID": "historias/2023-12-20_Independencia/2023-12-20_Independencia.html#section-2",
+    "href": "historias/2023-12-20_Independencia/2023-12-20_Independencia.html#section-2",
+    "title": "Independencia energética en México",
+    "section": "3",
+    "text": "3\n\nHighlight specific lines for emphasis\nIncrementally highlight additional lines\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={'projection': 'polar'})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\nLearn more: Line Highlighting"
+  },
+  {
+    "objectID": "historias/2023-12-20_Independencia/2023-12-20_Independencia.html#latex-equations",
+    "href": "historias/2023-12-20_Independencia/2023-12-20_Independencia.html#latex-equations",
+    "title": "Independencia energética en México",
+    "section": "LaTeX Equations",
+    "text": "LaTeX Equations\nMathJax rendering of equations to HTML\n\n\n\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\n\n\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\n\n\\[\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\\]\n\\[\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\\]\n\n\n\nLearn more: LaTeX Equations\n\n\n\n\nhttps://enerdatamx.github.io"
   },
   {
     "objectID": "tutoriales.html",
@@ -18,7 +32,7 @@
     "href": "historias.html",
     "title": "Historias",
     "section": "",
-    "text": "Prueba de post\n\n\n\nprueba\n\n\npython\n\n\n\nPrueba de concepto\n\n\n\nGuillermo Barrios\n\n\n14 dic 2023\n\n\n\n\n\n\n\n\nNo hay resultados"
+    "text": "Independencia energética en México\n\n\n\n\n\n\nGuillermo Barrios\n\n\n\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "galeria.html",
@@ -53,7 +67,7 @@
     "href": "index.html#historias-recientes",
     "title": "EnerData",
     "section": "Historias recientes",
-    "text": "Historias recientes\n\n\n\n\n\n\n\n\n\n\nPrueba de post\n\n\nPrueba de concepto\n\n\n\nGuillermo Barrios\n\n\n14 dic 2023\n\n\n\n\n\n\n\n\nNo hay resultados"
+    "text": "Historias recientes\n\n\n\n\n\n\n\n\nIndependencia energética en México\n\n\n\n\n\n\nGuillermo Barrios\n\n\n\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "galeria/2023-12-14_Prueba/2023-12-14_Prueba.html",
