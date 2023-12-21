@@ -2,8 +2,8 @@ project:
   type: website
   output-dir: docs
 
-
 website:
+  google-analytics: "G-WWRVF9EZNE"
   title: "EnerData"
   navbar:
     tools:
