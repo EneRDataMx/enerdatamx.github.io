@@ -90,6 +90,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-tutoriales .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-tutoriales'] = new List('listing-tutoriales', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
@@ -153,6 +181,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#historias-recientes" id="toc-historias-recientes" class="nav-link active" data-scroll-target="#historias-recientes">Historias recientes</a></li>
+  <li><a href="#tutoriales-recientes" id="toc-tutoriales-recientes" class="nav-link" data-scroll-target="#tutoriales-recientes">Tutoriales recientes</a></li>
   </ul>
 </nav>
     </div>
@@ -169,9 +198,9 @@ ul.task-list li input[type="checkbox"] {
 </div> 
   <hr class="about-sep">
    <div class="about-links">
-  <a href="https://x.com/enerdataMx" class="about-link" rel="" target="">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">X.com/EnerDataMx</span>
+  <a href="https://www.github.com/enerdataMx" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">github.com/EnerDataMx</span>
   </a>
 </div>
 </div>
@@ -180,7 +209,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-anchor-id="historias-recientes">Historias recientes</h2>
 <div id="listing-historias" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1703119120425" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1703119423169" data-listing-reading-time-sort="1">
 <a href="./historias/2023-12-20_Independencia/2023-12-20_Independencia.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -196,6 +225,41 @@ Independencia energética en México
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
 Guillermo Barrios
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No hay resultados
+</div>
+</div>
+</section>
+<section id="tutoriales-recientes" class="level2">
+<h2 data-anchor-id="tutoriales-recientes">Tutoriales recientes</h2>
+<div id="listing-tutoriales" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="matplotlib" data-listing-date-sort="1703052000000" data-listing-file-modified-sort="1703115877374" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./tutoriales/2023-12-20_plantilla/2023-12-20_plantilla.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./tutoriales/2023-12-20_plantilla/matplotlib.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Plantillas para matplotlib
+</h5>
+<div class="card-text listing-description">
+Desarrolla una hoja de estilo para matplotlib y homogenizar tus gráficas
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Guillermo Barrios
+</div>
+<div class="listing-date">
+20 dic 2023
 </div>
 </div>
 </div>

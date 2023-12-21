@@ -7,13 +7,17 @@ about:
   image-shape: rounded
   image-width: 20em
   links: 
-    - icon: twitter
-      text: X.com/EnerDataMx
-      href: https://x.com/enerdataMx
+    - icon: github
+      text: github.com/EnerDataMx
+      href: https://www.github.com/enerdataMx
 
 listing:
     - id: historias
       contents: historias/*/*.qmd
+      type: grid
+      sort: "date desc"
+    - id: tutoriales
+      contents: tutoriales/*/*.qmd
       type: grid
       sort: "date desc"
 ---
@@ -24,4 +28,8 @@ listing:
 
 ## Historias recientes
 ::: {#historias}
+:::
+
+## Tutoriales recientes
+::: {#tutoriales}
 :::

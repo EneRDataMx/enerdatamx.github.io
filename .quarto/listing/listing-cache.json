@@ -10,7 +10,8 @@
       "historias"
     ],
     "index.qmd": [
-      "historias/*/*.qmd"
+      "historias/*/*.qmd",
+      "tutoriales/*/*.qmd"
     ],
     "tutoriales.qmd": [
       "tutoriales"
