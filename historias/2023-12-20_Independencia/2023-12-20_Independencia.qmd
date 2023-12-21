@@ -9,7 +9,7 @@ format:
     chalkboard: 
       buttons: false
     logo: enerdatalogo.png
-    footer: Regresa a [Historias](../../historias.qmd)
+    footer: Regresa a [Historias](https://enerdatamx.github.io/historias)
 image: 002.png
 categories: [Guillermo Barrios] # self-defined categories
 
